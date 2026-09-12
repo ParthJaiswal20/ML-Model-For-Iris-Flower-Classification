@@ -55,12 +55,7 @@ The dataset contains **150 samples** divided equally among three Iris species.
 | Petal Width  | Width of the petal (cm)  |
 | Species      | Target class             |
 
-Each species contains **50 samples**.
-
-> **Note:** The assignment intentionally uses only **50% of the dataset for training** and evaluates the models on the full dataset as specified in the problem statement.
-
 ---
-
 ## 🤖 Machine Learning Models
 
 ### 1. K-Nearest Neighbors (KNN)
@@ -107,13 +102,13 @@ Select Best Model
 
 The performance of all three models will be compared using appropriate classification metrics.
 
-| Model               | Performance     |
-| ------------------- | --------------- |
-| KNN                 | To be evaluated |
-| Logistic Regression | To be evaluated |
-| Naive Bayes         | To be evaluated |
+| Model               | Performance                  |
+| ------------------- | ---------------------------- |
+| KNN                 | Accuracy: 0.9933333333333333 |
+| Logistic Regression | Accuracy: 1.0                |
+| Naive Bayes         | Accuracy: 0.9933333333333333 |
 
-The final results will determine which algorithm performs best on the given dataset.
+THE FINAL ALGO THAT PERFORMED THE BEST IS Logistic Regression
 
 ---
 
@@ -125,7 +120,7 @@ The final results will determine which algorithm performs best on the given data
 * Matplotlib
 * Seaborn
 * Scikit-learn
-* Jupyter Notebook / Google Colab
+* Jupyter Notebook
 
 ---
 
@@ -155,14 +150,6 @@ Through this project, I explored:
 * Model training
 * Model evaluation
 * Comparing multiple ML algorithms
-
----
-
-## ⚠️ Important Note
-
-The Iris dataset is small, clean, and well-balanced. Therefore, very high model performance is expected.
-
-This performance should **not automatically be considered representative of real-world ML problems**, where datasets may contain noise, missing values, class imbalance, and significantly more preprocessing requirements.
 
 ---
 
