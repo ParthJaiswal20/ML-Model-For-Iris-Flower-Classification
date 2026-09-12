@@ -108,7 +108,7 @@ The performance of all three models will be compared using appropriate classific
 | Logistic Regression | Accuracy: 1.0                |
 | Naive Bayes         | Accuracy: 0.9933333333333333 |
 
-The model that performed the best among all is Logistic Regression
+The model that performed the best among all was Logistic Regression.
 
 ---
 
