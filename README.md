@@ -130,7 +130,6 @@ The model that performed the best among all was Logistic Regression.
 iris-flower-classification/
 │
 ├── iris-classification.ipynb
-├── README.md
 └── dataset/
     └── iris.csv
 ```
